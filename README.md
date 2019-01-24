@@ -2,7 +2,7 @@
 Processo de dev KingHost - Docker-Compose
 
 # Deploy
-Para dar deploy basta rodas <kbd>sudo docker-compose up</kbd>
+Para dar deploy basta rodar <kbd>sudo docker-compose up</kbd>
 
 ->Acesse localhost para visualizar o Artigo
 
